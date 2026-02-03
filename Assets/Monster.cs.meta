@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fdaacf34da2a681419536b9c43df82e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - hpText: {fileID: 1970302391669052569, guid: ad465df54ee5b874ca946efdb69798d4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
