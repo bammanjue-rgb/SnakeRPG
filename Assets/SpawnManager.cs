@@ -184,7 +184,6 @@ public class SpawnManager : MonoBehaviour
         Collider2D hit = Physics2D.OverlapCircle(pos, tileSize * 0.4f);
         if (hit != null)
         {
-            if (hit.CompareTag("Floor")) return false; 
             return true; 
         }
         return false;
